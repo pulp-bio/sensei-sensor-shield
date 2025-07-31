@@ -1,0 +1,6 @@
+[submodule "Hardware/SENSEI_Base-Board"]
+	path = Hardware/SENSEI_Base-Board
+	url = https://github.com/pulp-bio/sensei-base-board.git
+[submodule "Hardware/SENSEI_Template-Shield"]
+	path = Hardware/SENSEI_Template-Shield
+	url = https://github.com/pulp-bio/sensei-template-shield.git

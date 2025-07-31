@@ -1,0 +1,36 @@
+Record=DiagramHierarchy|SourceDocument=UTMultiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M4|Source=..\UT_baseBoard\Hardware\01_Mainboard\01_Mainboard.PrjPcb
+Record=SubProject|SourceDocument=UTMultiBoard.MbsDoc|ProjectPath=..\UT_baseBoard\Hardware\01_Mainboard\01_Mainboard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=UTMultiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M1|Source=..\UT_baseBoard\Hardware\01_Mainboard\01_Mainboard.PrjPcb
+Record=SubProject|SourceDocument=UTMultiBoard.MbsDoc|ProjectPath=..\UT_baseBoard\Hardware\01_Mainboard\01_Mainboard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=UTMultiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M5|Source=..\UT_sensorNode\UT_sensorNode.PrjPcb
+Record=SubProject|SourceDocument=UTMultiBoard.MbsDoc|ProjectPath=..\UT_sensorNode\UT_sensorNode.PrjPcb
+Record=DiagramHierarchy|SourceDocument=UTMultiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M2|Source=..\UT_sensorNode\UT_sensorNode.PrjPcb
+Record=SubProject|SourceDocument=UTMultiBoard.MbsDoc|ProjectPath=..\UT_sensorNode\UT_sensorNode.PrjPcb
+Record=DiagramHierarchy|SourceDocument=UTMultiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M6|Source=..\UT_shieldTemplate\UT_shieldTemplate.PrjPcb
+Record=SubProject|SourceDocument=UTMultiBoard.MbsDoc|ProjectPath=..\UT_shieldTemplate\UT_shieldTemplate.PrjPcb
+Record=DiagramHierarchy|SourceDocument=UTMultiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M3|Source=..\UT_shieldTemplate\UT_shieldTemplate.PrjPcb
+Record=SubProject|SourceDocument=UTMultiBoard.MbsDoc|ProjectPath=..\UT_shieldTemplate\UT_shieldTemplate.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M1|Source=..\SENSEI_Base-Board\Hardware\01_Mainboard\SENSEI_Base-Board.PrjPcb
+Record=SubProject|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Base-Board\Hardware\01_Mainboard\SENSEI_Base-Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M4|Source=..\SENSEI_Base-Board\Hardware\01_Mainboard\SENSEI_Base-Board.PrjPcb
+Record=SubProject|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Base-Board\Hardware\01_Mainboard\SENSEI_Base-Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M5|Source=..\SENSEI_Sensor-Shield\SENSEI-Sensor-Shield.PrjPcb
+Record=SubProject|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Sensor-Shield\SENSEI-Sensor-Shield.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M2|Source=..\SENSEI_Sensor-Shield\SENSEI-Sensor-Shield.PrjPcb
+Record=SubProject|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Sensor-Shield\SENSEI-Sensor-Shield.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M6|Source=..\SENSEI_Template-Shield\Hardware\UT_shieldTemplate\UT_shieldTemplate.PrjPcb
+Record=SubProject|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Template-Shield\Hardware\UT_shieldTemplate\UT_shieldTemplate.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M3|Source=..\SENSEI_Template-Shield\Hardware\UT_shieldTemplate\UT_shieldTemplate.PrjPcb
+Record=SubProject|SourceDocument=SENSEI-Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Template-Shield\Hardware\UT_shieldTemplate\UT_shieldTemplate.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M1|Source=..\SENSEI_Base-Board\Hardware\01_Mainboard\SENSEI_Base-Board.PrjPcb
+Record=SubProject|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Base-Board\Hardware\01_Mainboard\SENSEI_Base-Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M4|Source=..\SENSEI_Base-Board\Hardware\01_Mainboard\SENSEI_Base-Board.PrjPcb
+Record=SubProject|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Base-Board\Hardware\01_Mainboard\SENSEI_Base-Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M5|Source=..\SENSEI_Sensor-Shield\SENSEI_Sensor-Shield_V1-0.PrjPcb
+Record=SubProject|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Sensor-Shield\SENSEI_Sensor-Shield_V1-0.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M2|Source=..\SENSEI_Sensor-Shield\SENSEI_Sensor-Shield_V1-0.PrjPcb
+Record=SubProject|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Sensor-Shield\SENSEI_Sensor-Shield_V1-0.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M6|Source=..\SENSEI_Template-Shield\Hardware\SENSEI_Template_Shield.PrjPcb
+Record=SubProject|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Template-Shield\Hardware\SENSEI_Template_Shield.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M3|Source=..\SENSEI_Template-Shield\Hardware\SENSEI_Template_Shield.PrjPcb
+Record=SubProject|SourceDocument=SENSEI_Sensor-Shield_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Template-Shield\Hardware\SENSEI_Template_Shield.PrjPcb
